@@ -132,6 +132,7 @@
         for (var i = 0; i < conf_type_data.length; i++) {
           all_subs[i] = conf_type_data[i]['sub'];
         }
+        var subs = store.get('{{ site.url }}');
 
         if (subs === undefined) {
           subs = all_subs;
