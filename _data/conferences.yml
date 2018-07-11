@@ -1,6 +1,16 @@
 
 ---
 
+- name: ACL
+  year: 2019
+  id: acl19
+  link: http://acl2019.org/
+  deadline: TBA
+  timezone: Etc/GMT+12
+  date: July 28-August 2, 2019
+  place: Florence, Italy
+  sub: CONF
+
 - name: EMNLP
   year: 2018
   id: emnlp18
