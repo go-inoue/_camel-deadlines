@@ -1,6 +1,16 @@
 
 ---
 
+- name: SIGMORPHON
+  year: 2018
+  id: sigmorphon18
+  link: http://www.sigmorphon.org/
+  deadline: "2018-07-13 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 31, 2018
+  place: Brussels, Belgium
+  sub: WS
+
 - name: ACL
   year: 2019
   id: acl19
