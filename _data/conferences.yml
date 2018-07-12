@@ -11,6 +11,16 @@
   place: Brussels, Belgium
   sub: WS
 
+- name: NAACL
+  year: 2019
+  id: naacl19
+  link: http://naacl2019.org/
+  deadline: TBA
+  timezone: Etc/GMT+12
+  date: June 2-June 7, 2019
+  place: Minneapolis, USA
+  sub: CONF
+
 - name: ACL
   year: 2019
   id: acl19
